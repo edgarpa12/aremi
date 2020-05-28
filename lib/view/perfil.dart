@@ -1,81 +1,36 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-
 import 'package:flutter/foundation.dart';
+import 'package:aremi/model/user_class.dart';
 
-final startColor = Color(0xFFaa7ce4);
-final endColor = Color(0xFFe46792);
+final startColor = Color(0xFFB0DB43);
+final endColor = Color(0xFF3FC8E5);
 final titleColor = Color(0xff444444);
 final textColor = Color(0xFFa9a9a9);
 final shadowColor = Color(0xffe9e9f4);
 
 
-// class Clases extends StatefulWidget {
-//   @override
-//   _ClasesPageState createState() => _ClasesPageState();
-// }
-
 class User extends StatelessWidget {
+
+  @override
+  Card createState() => Card();
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Stack(
           children: <Widget>[
             Container(
-              height: 180,
+              height: 150,
               decoration: BoxDecoration(
                   gradient: LinearGradient(colors: [startColor, endColor])),
-            ),
-            Positioned(
-              top: 0,
-              right: 0,
-              left: 0,
-              child: Container(
-                height: 80,
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: <Widget>[
-                    Padding(
-                      padding: const EdgeInsets.only(top: 40, left: 20),
-                      child: IconButton(
-                        icon: Icon(
-                          Icons.dehaze,
-                          color: Colors.white,
-                        ),
-                        onPressed: () {},
-                      ),
-                    ),
-                    Padding(
-                      padding: const EdgeInsets.only(top: 40),
-                      child: Text(
-                        'DesignPlanner',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 20,
-                        ),
-                      ),
-                    ),
-                    Padding(
-                      padding: const EdgeInsets.only(top: 40, right: 20),
-                      child: IconButton(
-                        icon: Icon(
-                          Icons.edit,
-                          color: Colors.white,
-                        ),
-                        onPressed: () {},
-                      ),
-                    ),
-                  ],
-                ),
-              ),
             ),
             Container(
               child: ListView(
                 children: <Widget>[
-                  new CardHolder(),
+                  new Card(),
                   SizedBox(
-                    height: 200,
+                    height: 150,
                   )
                 ],
               ),
@@ -85,9 +40,13 @@ class User extends StatelessWidget {
       ),
     );
   }
+  
 }
+
+
 class Card extends StatelessWidget {
-  const Card({
+
+  Card({
     Key key,
   }) : super(key: key);
 
@@ -96,23 +55,23 @@ class Card extends StatelessWidget {
     return Column(
       children: <Widget>[
         SizedBox(
-          height: 20,
+          height: 5,
         ),
         Container(
           height: 130,
           width: 130,
           decoration: BoxDecoration(
               image: DecorationImage(
-                  image: AssetImage('assets/ill.png'), fit: BoxFit.fill),
+                  image: AssetImage("assets/ill.png"), fit: BoxFit.fill),
               borderRadius: BorderRadius.circular(100),
               border: Border.all(
-                  color: Colors.blueAccent.withOpacity(.2), width: 1)),
+                  color: Colors.black.withOpacity(.2), width: 1)),
         ),
         SizedBox(
           height: 10,
         ),
         Text(
-          'Mike Edward',
+          "Steven Quesada",
           style: TextStyle(
             color: titleColor,
             fontSize: 20,
@@ -125,7 +84,11 @@ class Card extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
             Text(
-              '2948 posts created',
+              "Gender: ",
+              style: TextStyle(color: textColor, fontSize: 15),
+            ),
+            Text(
+              "Male",
               style: TextStyle(color: textColor, fontSize: 15),
             ),
             SizedBox(
@@ -142,7 +105,11 @@ class Card extends StatelessWidget {
               width: 10,
             ),
             Text(
-              '934 Feedback',
+              "Age: ",
+              style: TextStyle(color: textColor, fontSize: 15),
+            ),
+            Text(
+              "21",
               style: TextStyle(color: textColor, fontSize: 15),
             ),
           ],
@@ -171,50 +138,28 @@ class Card extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[
                       Text(
-                        'website',
+                        "Email: ",
                         style: TextStyle(
                           color: Colors.black,
-                          fontSize: 18,
+                          fontSize: 15,
                         ),
-                      ),
-                      SizedBox(
-                        height: 3,
                       ),
                       Text(
-                        'www.google.com',
+                        "algo@algo.com",
                         style: TextStyle(
-                          color: Colors.blue,
+                          color: Colors.grey,
+                          fontSize: 15,
                         ),
-                      )
+                      ),
                     ],
                   ),
-                  Column(
-                    children: <Widget>[
-                      SizedBox(
-                        height: 10,
-                      ),
-                      Row(
-                        children: <Widget>[
-                          IconButton(
-                              icon: Icon(
-                                Icons.headset,
-                                size: 15,
-                              ),
-                              onPressed: () {}),
-                          IconButton(
-                              icon: Icon(
-                                Icons.headset,
-                                size: 15,
-                              ),
-                              onPressed: () {}),
-                        ],
-                      )
-                    ],
-                  )
                 ],
               ),
+              SizedBox(
+                height: 10,
+              ),
               Text(
-                'Biography',
+                "Datos personales:",
                 style: TextStyle(
                   color: Colors.black,
                   fontSize: 18,
@@ -224,7 +169,7 @@ class Card extends StatelessWidget {
                 height: 3,
               ),
               Text(
-                  'Contrary to popular belief, Lorem Ipsum is not simply random text It has roots in a piece of classical Latin literature from 45 BC')
+                  "Enfermedades, padecimientos, etc")
             ],
           ),
         ),
@@ -233,78 +178,6 @@ class Card extends StatelessWidget {
             SizedBox(
               height: 30,
             ),
-            SizedBox(
-              width: 300,
-              child: Divider(
-                height: 1,
-                color: titleColor.withOpacity(.3),
-              ),
-            ),
-            SizedBox(
-              height: 10,
-            ),
-            Row(
-              children: <Widget>[
-                Material(
-                  borderRadius: BorderRadius.all(Radius.circular(100)),
-                  child: InkWell(
-                    borderRadius: BorderRadius.all(Radius.circular(100)),
-                    onTap: () {},
-                    child: Padding(
-                      padding: const EdgeInsets.all(12),
-                      child: Icon(
-                        Icons.group_work,
-                        color: textColor,
-                        size: 40,
-                      ),
-                    ),
-                  ),
-                ),
-                Column(
-                  children: <Widget>[
-                    Text(
-                      'Dirbble',
-                      style: TextStyle(color: Colors.black, fontSize: 22),
-                    ),
-                    Text(
-                      '.com/raazcse',
-                      style: TextStyle(color: textColor, fontSize: 15),
-                    )
-                  ],
-                ),
-                Spacer(),
-                Material(
-                  borderRadius: BorderRadius.all(Radius.circular(100)),
-                  child: InkWell(
-                    borderRadius: BorderRadius.all(Radius.circular(100)),
-                    onTap: () {},
-                    child: Padding(
-                      padding: const EdgeInsets.all(12),
-                      child: Icon(
-                        Icons.insert_emoticon,
-                        color: textColor,
-                        size: 40,
-                      ),
-                    ),
-                  ),
-                ),
-                Column(
-                  children: <Widget>[
-                    Text(
-                      'Behance',
-                      style: TextStyle(color: Colors.black, fontSize: 22),
-                    ),
-                    Text(
-                      '.net/surjasin',
-                      style: TextStyle(color: textColor, fontSize: 15),
-                    )
-                  ],
-                ),
-                SizedBox(
-                  width: 14,
-                )
-              ],
-            )
           ],
         )
       ],

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:aremi/view/clases.dart';
+import 'package:aremi/view/perfil.dart';
+import 'package:aremi/view/settings.dart';
 
 void main() {
   runApp(MyApp());
@@ -29,9 +31,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
   int _selectedTab = 0;
     final _pageOptions = [
-        Clases()
-        // CatPage(),
-        // SearchPage(),
+        Clases(),
+        User(),
+        MenuOptionsScreen()
     ];
     @override
     Widget build(BuildContext context) {
@@ -39,6 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
             theme: ThemeData(
             primarySwatch: Colors.grey
             ),
+        debugShowCheckedModeBanner: false,
         home: Scaffold(
         appBar: AppBar(
         backgroundColor: Colors.white,
@@ -57,6 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     _selectedTab = index;
                 });
             },
+            selectedItemColor: Colors.amber,
             items: [
                 BottomNavigationBarItem(
                     icon: Icon(

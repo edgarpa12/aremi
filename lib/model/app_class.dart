@@ -1,5 +1,3 @@
-
-
 class AppClass{
   final bool isReserved;
   final String time;
