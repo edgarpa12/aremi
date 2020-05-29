@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CA7A101C-CCD5-4E35-B9BB-0FB749CCF9D5",
+  "do_objectID": "79555668-108A-416D-8546-153E552F33F7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,46 +14,39 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
+    "constrainProportions": false,
+    "height": 36,
+    "width": 36,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "2BE2B3CC-468E-4976-B605-CE8D8EB76899"
+      "class": "oval",
+      "id": "AF216BEE-AEA1-4741-B6F8-ADCCD6317FA2"
     },
     {
-      "class": "artboard",
-      "id": "99976E5B-62D9-4487-AFEE-3787F3846175"
+      "class": "triangle",
+      "id": "23C58B67-A717-4E7D-91E6-2D6B4025C601"
     },
     {
-      "class": "artboard",
-      "id": "69727115-25BA-4E20-9B6F-D65156FA3CB7"
+      "class": "oval",
+      "id": "85CC2558-A594-4CA4-8AEE-AF998437BE7C"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Cards_Play\\Red_Card\\Play",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -92,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "76933918-8EAF-412D-B87C-4E47A7D0524D",
+    "do_objectID": "7A4EE116-871F-44D0-9437-2FEDCC350120",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

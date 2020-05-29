@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CA7A101C-CCD5-4E35-B9BB-0FB749CCF9D5",
+  "do_objectID": "41A10671-C15D-4EC6-B0A7-C397DF1DABE8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 0,
-    "width": 0,
+    "height": 210,
+    "width": 319,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,19 +33,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "2BE2B3CC-468E-4976-B605-CE8D8EB76899"
+      "class": "symbolInstance",
+      "id": "64BF4092-6A2D-41F2-9935-18680EE1BDEF"
     },
     {
-      "class": "artboard",
-      "id": "99976E5B-62D9-4487-AFEE-3787F3846175"
-    },
-    {
-      "class": "artboard",
-      "id": "69727115-25BA-4E20-9B6F-D65156FA3CB7"
+      "class": "symbolInstance",
+      "id": "9BF4E880-489D-426A-8D49-42E1A38C1A74"
     }
   ],
-  "name": "Page 1",
+  "name": "Bitmap Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "76933918-8EAF-412D-B87C-4E47A7D0524D",
+    "do_objectID": "2D6EFC48-9577-4DC0-9F83-43FBFA799AC7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

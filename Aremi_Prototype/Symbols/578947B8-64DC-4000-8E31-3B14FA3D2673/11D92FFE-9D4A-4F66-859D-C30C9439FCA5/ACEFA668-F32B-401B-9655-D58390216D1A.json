@@ -1,8 +1,9 @@
 {
-  "_class": "page",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CA7A101C-CCD5-4E35-B9BB-0FB749CCF9D5",
+  "do_objectID": "ACEFA668-F32B-401B-9655-D58390216D1A",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,46 +15,65 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 3.241223910159936,
+    "width": 3.166666666666667,
+    "x": 3.166666666666667,
+    "y": 6.48244782031987
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "artboard",
-      "id": "2BE2B3CC-468E-4976-B605-CE8D8EB76899"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614333333333363, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.22385666666666668, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 1}"
     },
     {
-      "class": "artboard",
-      "id": "99976E5B-62D9-4487-AFEE-3787F3846175"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.22386666666666657}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77613333333333345}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5}"
     },
     {
-      "class": "artboard",
-      "id": "69727115-25BA-4E20-9B6F-D65156FA3CB7"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385666666666668, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614333333333363, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77613333333333345}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22386666666666657}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -92,7 +112,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "76933918-8EAF-412D-B87C-4E47A7D0524D",
+    "do_objectID": "65A41BED-5444-4B5F-8EF0-045FC2606DEC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +123,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

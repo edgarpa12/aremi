@@ -1,8 +1,9 @@
 {
-  "_class": "page",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "CA7A101C-CCD5-4E35-B9BB-0FB749CCF9D5",
+  "do_objectID": "7DD1A651-D6A5-4A48-9527-5EB56127762E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,47 +13,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 31,
+    "width": 31,
+    "x": 38,
+    "y": 36
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7270a5799975dc0ff330cefcb99d253a79dce9ea.png",
+    "_ref_class": "MSImageData"
   },
-  "includeInCloudUpload": true,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "2BE2B3CC-468E-4976-B605-CE8D8EB76899"
-    },
-    {
-      "class": "artboard",
-      "id": "99976E5B-62D9-4487-AFEE-3787F3846175"
-    },
-    {
-      "class": "artboard",
-      "id": "69727115-25BA-4E20-9B6F-D65156FA3CB7"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "76933918-8EAF-412D-B87C-4E47A7D0524D",
+    "do_objectID": "B2E9527A-800B-41AB-AA90-423E23FD9A8A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +86,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
