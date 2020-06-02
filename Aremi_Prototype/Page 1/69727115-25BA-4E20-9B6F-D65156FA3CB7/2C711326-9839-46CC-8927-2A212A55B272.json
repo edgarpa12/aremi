@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.1882352941176471,
+            "green": 0.1843137254901961,
+            "red": 0.1803921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Cources"
+    "string": "Cursos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 31,
     "y": 98
   },
-  "glyphBounds": "{{1, 9}, {160, 32}}",
+  "glyphBounds": "{{1, 9}, {135, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -121,9 +121,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.1882352941176471,
+          "green": 0.1843137254901961,
+          "red": 0.1803921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

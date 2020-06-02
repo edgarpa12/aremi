@@ -31,6 +31,16 @@
   "name": "Cards_Play\\Red_Card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3A93B29-72D6-4D61-88DE-CA873B8BD2EF_stringValue",
+      "value": "Cocinando con Lupita"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "76188245-429E-4443-B6C6-8F568188A345_stringValue",
+      "value": "3pm - 6pm"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

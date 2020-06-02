@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "29EBA900-717F-4787-8437-97249C582AD5",
+  "do_objectID": "BA43F221-5A2F-49F2-8544-CBE521939467",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8,
-    "width": 16,
-    "x": 295,
-    "y": 23
+    "height": 54,
+    "width": 347,
+    "x": 2,
+    "y": 220
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,11 +28,16 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Password_Field\\Eye",
+  "name": "Username_Field",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B406E307-E148-4400-8115-13C40D3E6467_stringValue",
+      "value": "Tu correo"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -71,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "514FB555-47D7-4363-8D99-DEB6608FD102",
+    "do_objectID": "DDF83363-63CF-4C45-B6FD-5B011A7E7675",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C917D1B9-7FB8-443F-B902-AF2E5F40C50A",
+  "symbolID": "A530714A-762C-4608-BF5E-2D5BC2299D88",
   "verticalSpacing": 0
 }

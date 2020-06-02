@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7A7E7A97-C4A8-4222-B61C-E98F2210E8A2",
+  "do_objectID": "1C06D047-808B-4C38-BB53-CD4AF92E2E9B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,28 +14,34 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 210,
-    "width": 319,
-    "x": 28,
-    "y": 170
+    "constrainProportions": true,
+    "height": 48,
+    "width": 38,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Small_Cards_Play",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5056B545-19C7-4295-B637-4ED045AB798B"
+    }
   ],
-  "resizingConstraint": 63,
+  "name": "Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -71,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CA87D8F3-063B-462A-9229-39FEA139D2E3",
+    "do_objectID": "6E0A8FE3-321D-4CA3-AB2D-375BDEA61D4B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "E0742C1F-3915-4DFB-A816-5D126D886F22",
-  "verticalSpacing": 0
+  }
 }

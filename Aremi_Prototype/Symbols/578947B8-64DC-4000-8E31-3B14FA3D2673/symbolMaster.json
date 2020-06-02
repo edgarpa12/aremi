@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 39,
+  "changeIdentifier": 49,
   "clippingMaskMode": 0,
   "do_objectID": "578947B8-64DC-4000-8E31-3B14FA3D2673",
   "exportOptions": {
@@ -55,6 +55,10 @@
     {
       "class": "shapeGroup",
       "id": "11D92FFE-9D4A-4F66-859D-C30C9439FCA5"
+    },
+    {
+      "class": "group",
+      "id": "0BCD1753-FCAF-4F39-8FDF-CFB1717278BB"
     }
   ],
   "name": "3_Elements_Circled_Navigation\\Message\\Off",

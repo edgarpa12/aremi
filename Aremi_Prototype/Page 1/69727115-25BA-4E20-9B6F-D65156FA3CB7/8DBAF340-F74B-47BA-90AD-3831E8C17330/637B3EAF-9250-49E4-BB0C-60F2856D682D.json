@@ -31,6 +31,16 @@
   "name": "Cards_Play\\Yellow_Card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F27CF849-5131-439B-8045-5EDCB9A27A39_stringValue",
+      "value": "Aerobicos con Ale"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D15BAB64-5729-4A82-905B-194E2B3DEEB4_stringValue",
+      "value": "10am - 12md"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

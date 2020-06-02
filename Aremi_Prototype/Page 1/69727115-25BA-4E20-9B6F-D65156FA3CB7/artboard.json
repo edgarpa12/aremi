@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 666,
-    "y": -110
+    "x": 1603,
+    "y": -146
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,7 +58,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -73,19 +73,23 @@
       "id": "2C711326-9839-46CC-8927-2A212A55B272"
     },
     {
-      "class": "symbolInstance",
-      "id": "7A7E7A97-C4A8-4222-B61C-E98F2210E8A2"
-    },
-    {
       "class": "group",
       "id": "8DBAF340-F74B-47BA-90AD-3831E8C17330"
     },
     {
       "class": "symbolInstance",
       "id": "4C719EEB-CB7F-4342-968C-AA59CDC32684"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31F5E586-532F-4717-B34F-1463E3D4BC69"
+    },
+    {
+      "class": "shapePath",
+      "id": "776C3D8D-757C-4E1F-A76A-07118D5292EB"
     }
   ],
-  "name": "Cources",
+  "name": "HomePage",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

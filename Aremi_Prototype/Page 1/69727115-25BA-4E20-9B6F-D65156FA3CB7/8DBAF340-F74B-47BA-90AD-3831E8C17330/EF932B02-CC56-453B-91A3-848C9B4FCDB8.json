@@ -12,6 +12,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "A0C71A35-92EF-4F49-B3E6-256F38B04CDC",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -31,6 +37,16 @@
   "name": "Cards_Play\\Green_Card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "19524B52-B05B-4E9D-ABA3-CB629713FF76_stringValue",
+      "value": "Natacion Con Van Damn"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "787B0EBE-76D4-450A-B9A5-CB1C21A242FF_stringValue",
+      "value": "6am - 8am"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
