@@ -54,7 +54,7 @@
     "height": 48,
     "width": 279,
     "x": 24,
-    "y": 146
+    "y": 159
   },
   "glyphBounds": "{{0, 2}, {279, 44}}",
   "hasClippingMask": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Text",
+  "name": "DescriptionText",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,

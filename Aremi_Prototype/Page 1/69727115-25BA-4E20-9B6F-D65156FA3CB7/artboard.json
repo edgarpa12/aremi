@@ -81,6 +81,14 @@
       "id": "4C719EEB-CB7F-4342-968C-AA59CDC32684"
     },
     {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7AB5F0E7-A6B7-40F0-9622-E02120AEC692"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "C081063E-3393-41AE-AFE5-DBD10E8634E4"
+    },
+    {
       "class": "symbolInstance",
       "id": "31F5E586-532F-4717-B34F-1463E3D4BC69"
     },

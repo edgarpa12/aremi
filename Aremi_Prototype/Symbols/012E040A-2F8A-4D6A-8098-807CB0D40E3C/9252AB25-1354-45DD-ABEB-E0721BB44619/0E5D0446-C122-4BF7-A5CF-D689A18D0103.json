@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1,
-    "width": 9,
-    "x": 3,
+    "width": 7,
+    "x": 4,
     "y": 14
   },
   "hasClippingMask": false,
@@ -36,22 +36,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.055555555555555552, 0.5}",
+      "curveFrom": "{-0.071428571428571425, 0.5}",
       "curveMode": 1,
-      "curveTo": "{0.055555555555555552, 0.5}",
+      "curveTo": "{-0.071428571428571425, 0.5}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.055555555555555552, 0.5}"
+      "point": "{0.071428571428571425, 0.5}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.055555555555555552, 0.5}",
+      "curveFrom": "{-0.071428571428571425, 0.5}",
       "curveMode": 1,
-      "curveTo": "{0.055555555555555552, 0.5}",
+      "curveTo": "{-0.071428571428571425, 0.5}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.94444444444445708, 0.5}"
+      "point": "{0.92857142857141639, 0.5}"
     }
   ],
   "resizingConstraint": 63,

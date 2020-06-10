@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 23,
   "clippingMaskMode": 0,
   "do_objectID": "5F299B81-DCDF-4303-93FA-7FADEDB28980",
   "exportOptions": {
@@ -61,8 +61,8 @@
       "id": "38D10809-6E2A-45C3-8542-EC02BD4CE069"
     }
   ],
-  "name": "3_Elements_Circled_Navigation\\Home\\On",
-  "nameIsFixed": false,
+  "name": "3_Elements_Circled_Navigation\\Home\\Off",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "presetDictionary": {

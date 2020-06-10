@@ -91,6 +91,14 @@
     {
       "class": "shapePath",
       "id": "51CD58CC-622E-4F58-90D2-3319CB994ED9"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "436B1BBA-A553-45B3-B360-93D9E57D4470"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "B085F5A2-AFE9-4DE3-97B7-773764221530"
     }
   ],
   "name": "CursoFull",
