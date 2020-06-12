@@ -58,47 +58,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "3CDE1EB6-8948-43C7-95A4-25653A47480E"
+      "id": "E3C1687D-D9E6-470D-A1B5-5274EC54C51A"
     },
     {
-      "class": "symbolInstance",
-      "id": "1FD0BD86-641B-4AB0-83DE-B5CCF7B1C09C"
+      "class": "group",
+      "id": "96996804-452D-4B82-AD81-4366E29F0FA3"
     },
     {
-      "class": "symbolInstance",
-      "id": "9A9DBF6F-724B-4C7F-9273-F1F6F29BAF5C"
+      "class": "group",
+      "id": "55C1573E-1406-4FE1-98BD-FE6F5889146E"
     },
     {
-      "class": "symbolInstance",
-      "id": "7B95005F-54D7-45E5-A90A-7156741FB234"
+      "class": "group",
+      "id": "6C289EC5-577D-486F-B617-1A02F71CCAF9"
     },
     {
-      "class": "text",
-      "id": "2D51E049-FE9B-46C2-9988-CA78BB76810A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "61EA2C66-8237-4DDD-9E2B-DAF508A28065"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "84DDFD41-3C4E-43A5-AD95-7C5D64215169"
-    },
-    {
-      "class": "shapePath",
-      "id": "51CD58CC-622E-4F58-90D2-3319CB994ED9"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "436B1BBA-A553-45B3-B360-93D9E57D4470"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "B085F5A2-AFE9-4DE3-97B7-773764221530"
+      "class": "group",
+      "id": "019701E5-297C-42F9-BFCE-2815F20A3A73"
     }
   ],
   "name": "CursoFull",

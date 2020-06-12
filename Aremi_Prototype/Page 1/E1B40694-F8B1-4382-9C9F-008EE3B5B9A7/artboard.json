@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,19 +58,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "00CB2B05-FAA4-42E8-8304-E1D9BE54722F"
     },
     {
-      "class": "rectangle",
-      "id": "87618347-B8CE-4C7A-8813-35E44A7E868B"
+      "class": "group",
+      "id": "C3FAA0D6-BD61-4407-A4F8-A864B9509AAC"
     },
     {
       "class": "group",
       "id": "A0922570-070B-4C5F-9130-89E0EBBC5FD2"
+    },
+    {
+      "class": "group",
+      "id": "3D4C6732-9152-4E4B-BC75-B2CF0A7D71D0"
     }
   ],
   "name": "CrearCuenta",

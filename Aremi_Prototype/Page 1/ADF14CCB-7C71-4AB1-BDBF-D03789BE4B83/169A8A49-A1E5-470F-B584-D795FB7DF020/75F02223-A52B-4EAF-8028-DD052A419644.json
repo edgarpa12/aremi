@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 135,
     "width": 140,
-    "x": 0,
-    "y": 0
+    "x": 118,
+    "y": 75
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,8 +31,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 17",
-  "nameIsFixed": false,
+  "name": "ProfilePic Background",
+  "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [

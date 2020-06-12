@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 54,
     "width": 347,
-    "x": 2,
-    "y": 220
+    "x": 0,
+    "y": 92
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Username_Field",
-  "nameIsFixed": false,
+  "name": "Email_Field",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

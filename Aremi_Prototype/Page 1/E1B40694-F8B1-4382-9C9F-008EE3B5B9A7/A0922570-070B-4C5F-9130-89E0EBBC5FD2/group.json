@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 397,
-    "width": 349,
-    "x": 30,
-    "y": 210
+    "height": 146,
+    "width": 347,
+    "x": 32,
+    "y": 338
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,16 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "443B8890-2B94-4026-8D06-41D52A1C69CA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6A2C9234-2BDB-4E02-BBC6-1C20E8E15B0F"
-    },
     {
       "class": "symbolInstance",
       "id": "BA43F221-5A2F-49F2-8544-CBE521939467"
@@ -47,17 +39,9 @@
     {
       "class": "symbolInstance",
       "id": "8DC145A1-FFE6-4E48-9C3A-A3B2BAF47B0F"
-    },
-    {
-      "class": "text",
-      "id": "282E5B6C-3B62-483D-AE62-DF29F2ECE325"
-    },
-    {
-      "class": "text",
-      "id": "45A6B0E2-A020-4A09-A6E3-27C08BF1425F"
     }
   ],
-  "name": "Sign in",
+  "name": "Sign In",
   "nameIsFixed": true,
   "resizingConstraint": 58,
   "resizingType": 0,

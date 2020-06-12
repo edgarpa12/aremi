@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 68,
     "width": 71,
-    "x": 33,
-    "y": 34
+    "x": 151,
+    "y": 109
   },
   "hasClippingMask": false,
   "image": {
@@ -35,8 +35,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
-  "nameIsFixed": false,
+  "name": "ProfilePic",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

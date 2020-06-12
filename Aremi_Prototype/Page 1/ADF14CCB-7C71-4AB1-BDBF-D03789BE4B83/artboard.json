@@ -58,43 +58,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "0A3A386A-6D0F-4340-AF61-28E797C165BB"
+      "id": "FB250E32-6B7D-4EB9-BB1B-59FAA5ACCC7B"
     },
     {
-      "class": "symbolInstance",
-      "id": "0CC4CB4B-C3BE-4C5A-A763-4D7E69D39CF8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "382C0E86-6253-45B0-94C8-9FD0850C06AB"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "F061CCC3-CCF0-4084-99AE-BF4408C99303"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "4C714FCA-BC55-4C7D-80B9-29A0BD9E2560"
-    },
-    {
-      "class": "rectangle",
-      "id": "5E41294C-B439-4EBB-9DA3-17EE1D3BF9D5"
+      "class": "group",
+      "id": "9064EA81-A0DF-408B-908E-DF0C1FAFEDEC"
     },
     {
       "class": "group",
       "id": "169A8A49-A1E5-470F-B584-D795FB7DF020"
     },
     {
-      "class": "text",
-      "id": "9AD1AB29-42DB-4166-A340-E186E274ABC0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EBD6153F-BA2B-4468-A7DA-8B1EA5656E17"
+      "class": "group",
+      "id": "17CBBE69-BE5B-41AD-B791-9F6AD42C919F"
     }
   ],
   "name": "ProfilePage",

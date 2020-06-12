@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 27,
   "clippingMaskMode": 0,
   "do_objectID": "8A8F4F17-0310-41F3-9619-E9D660629DC1",
   "exportOptions": {
@@ -50,11 +50,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "79555668-108A-416D-8546-153E552F33F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "3CE127B6-F079-44B8-9592-B802D0A14527"
+    },
+    {
+      "class": "rectangle",
+      "id": "1830BB64-1101-4868-83B2-A71078E7415B"
     }
   ],
   "name": "Cards_Play\\Red_Card\\Play",

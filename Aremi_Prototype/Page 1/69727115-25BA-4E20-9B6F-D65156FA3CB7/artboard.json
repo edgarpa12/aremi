@@ -58,43 +58,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "D93A9AFC-932D-486E-842F-44B7F02713E9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1F7813B5-0DFC-4D6C-ABE4-0DF13DB59A6C"
-    },
-    {
-      "class": "text",
-      "id": "2C711326-9839-46CC-8927-2A212A55B272"
+      "id": "83328B3D-A150-41AF-8E05-6CB478FF2E9A"
     },
     {
       "class": "group",
       "id": "8DBAF340-F74B-47BA-90AD-3831E8C17330"
     },
     {
-      "class": "symbolInstance",
-      "id": "4C719EEB-CB7F-4342-968C-AA59CDC32684"
+      "class": "group",
+      "id": "31A3940B-E930-4861-827E-435DEA9645D9"
     },
     {
-      "class": "MSImmutableHotspotLayer",
-      "id": "7AB5F0E7-A6B7-40F0-9622-E02120AEC692"
+      "class": "group",
+      "id": "C9B83E11-2813-4725-91F9-CB090E85F335"
     },
     {
-      "class": "MSImmutableHotspotLayer",
-      "id": "C081063E-3393-41AE-AFE5-DBD10E8634E4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "31F5E586-532F-4717-B34F-1463E3D4BC69"
-    },
-    {
-      "class": "shapePath",
-      "id": "776C3D8D-757C-4E1F-A76A-07118D5292EB"
+      "class": "group",
+      "id": "36D88920-DD7F-4FB4-8736-BF8145091BA4"
     }
   ],
   "name": "HomePage",

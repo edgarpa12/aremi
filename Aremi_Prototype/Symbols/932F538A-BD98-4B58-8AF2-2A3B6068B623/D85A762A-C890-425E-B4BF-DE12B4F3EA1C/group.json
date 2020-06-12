@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 162,
+    "height": 55,
     "width": 375,
     "x": 0,
     "y": 0
@@ -39,14 +39,6 @@
     {
       "class": "group",
       "id": "DA4655BE-B76E-4DA4-B79D-5DA4157AA878"
-    },
-    {
-      "class": "group",
-      "id": "EC3B0DC9-625D-4930-ACE5-D0DCC5515531"
-    },
-    {
-      "class": "group",
-      "id": "5212C723-D375-4B68-98B5-A34E94714866"
     }
   ],
   "name": "Input",

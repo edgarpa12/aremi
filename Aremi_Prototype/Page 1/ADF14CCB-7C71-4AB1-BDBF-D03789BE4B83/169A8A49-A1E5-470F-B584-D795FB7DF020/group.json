@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 135,
-    "width": 140,
-    "x": 118,
-    "y": 119
+    "height": 299,
+    "width": 375,
+    "x": 0,
+    "y": 44
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,8 +30,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "5E41294C-B439-4EBB-9DA3-17EE1D3BF9D5"
+    },
     {
       "class": "rectangle",
       "id": "75F02223-A52B-4EAF-8028-DD052A419644"
@@ -39,6 +43,10 @@
     {
       "class": "bitmap",
       "id": "33E642C7-7E6E-4F47-AD40-A1C2A1DBE500"
+    },
+    {
+      "class": "text",
+      "id": "9AD1AB29-42DB-4166-A340-E186E274ABC0"
     }
   ],
   "name": "Profile Pic",
